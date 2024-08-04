@@ -10,7 +10,7 @@ A new Flutter project.
 
 <div>
   <h3>Empty Notes View</h3>
-  <img src="https://github.com/user-attachments/assets/9a2e91c6-6508-4b96-959a-0810e2e088da" alt="Note View" style:"width: 50'>
+  <img src="https://github.com/user-attachments/assets/9a2e91c6-6508-4b96-959a-0810e2e088da" alt="Note View">
 </div>
 <br><br>
 
